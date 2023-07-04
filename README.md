@@ -1,5 +1,2 @@
-# hello-world
-Hello world repository
-**Hello everyone**
-z terminala
-llllll
+# German credit data analysis
+This is my first complex EDA and ML project. 
